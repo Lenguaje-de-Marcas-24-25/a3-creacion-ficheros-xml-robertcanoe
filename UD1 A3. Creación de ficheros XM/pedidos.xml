@@ -1,0 +1,12 @@
+﻿<pedidos>
+    <pedido>
+        <id>1</id>
+        <cliente>Juan Pérez</cliente>
+        <producto>Ordenador portátil</producto>
+    </pedido>
+    <pedido>
+        <id>2</id>
+        <cliente>María García</cliente>
+        <producto>Teclado mecánico</producto>
+    </pedido>
+</pedidos>

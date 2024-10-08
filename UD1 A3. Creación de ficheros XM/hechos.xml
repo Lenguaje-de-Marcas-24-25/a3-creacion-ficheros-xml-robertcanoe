@@ -1,0 +1,12 @@
+﻿<hechos>
+    <hecho descripcion="Primera Guerra Mundial">
+        <dia>28</dia>
+        <mes>Julio</mes>
+        <ano>1914</ano>
+    </hecho>
+    <hecho descripcion="Llegada del hombre a la luna">
+        <dia>20</dia>
+        <mes>Julio</mes>
+        <ano>1969</ano>
+    </hecho>
+</hechos>

@@ -1,0 +1,10 @@
+﻿<ciudades>
+    <ciudad continente="Europa">
+        <nombre>Madrid</nombre>
+        <pais>España</pais>
+    </ciudad>
+    <ciudad continente="Asia">
+        <nombre>Tokio</nombre>
+        <pais>Japón</pais>
+    </ciudad>
+</ciudades>
