@@ -1,4 +1,6 @@
-﻿<hechos>
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<hechos>
     <hecho descripcion="Primera Guerra Mundial">
         <dia>28</dia>
         <mes>Julio</mes>

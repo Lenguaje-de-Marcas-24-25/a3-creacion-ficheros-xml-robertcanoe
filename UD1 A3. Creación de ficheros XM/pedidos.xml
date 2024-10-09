@@ -1,4 +1,6 @@
-﻿<pedidos>
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<pedidos>
     <pedido>
         <id>1</id>
         <cliente>Juan Pérez</cliente>
